@@ -1,6 +1,9 @@
 # Angular 9.0 + Bootstrap
  
-This example app shows how to add Bootstrap to an Angular 9 app, configure validation, and implement searchable, sortable, and pageable data. Please read [Build Beautiful Angular Apps with Bootstrap](https://developer.okta.com/blog/2020/03/02/angular-bootstrap) to see how this app was created.
+This example app shows how to add Bootstrap to an Angular 9 app, configure validation, and implement searchable, sortable, and pageable data. Please read [Build Beautiful Angular Apps with Bootstrap](https://developer.okta.com/blog/2020/03/02/angular-bootstrap) to see how this app was created. This blog post is the 2nd in a series. Other blog posts in this series include:
+
+* [Build a CRUD App with Angular 9 and Spring Boot](https://developer.okta.com/blog/2020/01/06/crud-angular-9-spring-boot-2)
+* [Angular Deployment with a Side of Spring Boot](https://developer.okta.com/blog/2020/05/29/angular-deployment)
 
 **Prerequisites:** 
 
